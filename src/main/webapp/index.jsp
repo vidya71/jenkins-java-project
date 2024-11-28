@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> NETFLIX -DEVOPS PROJECT</h2>
+      <h2> NETFLIX - YIT - ISE -  DEVOPS</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
@@ -23,7 +23,7 @@
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit">WELCOME TO NETFLIX V-8.0</button>
+        <button type="submit">WELCOME TO YIT-ISE V-NEW.0</button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
