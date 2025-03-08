@@ -13,11 +13,11 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> Netflix - teja-vit</h2>
+      <h2> Netflix - VANAKAM ....</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Emaill</label>
+          <label>EmaillLLLLLL</label>
         </div>
         <div class="form-control">
           <input type="password" required />
@@ -32,7 +32,7 @@
           <a href="#">Need help?</a>
         </div>
       </form>
-      <p>New to NNetflix? <a href="#">Lets join uxxp now</a></p>
+      <p>New to NNNNNNNNNNNetflix? <a href="#">Lets join uxxp now</a></p>
       <small>
         This page is protected by Google reCAPTCHA to ensure you're not a bot.
         <a href="#">Learn more.</a>
