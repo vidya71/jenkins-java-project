@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> Netflix - SVCEW....</h2>
+      <h2> GAJALA CHARI BANTU....</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
